@@ -1,0 +1,4 @@
+
+function firstfun(){
+	return 'first';
+};
