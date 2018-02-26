@@ -1,0 +1,3 @@
+function six(){
+	return 'six';
+}
